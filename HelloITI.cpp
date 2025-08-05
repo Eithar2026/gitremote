@@ -7,3 +7,8 @@ void printHelloITI() {
 void printHelloGit() {
     cout << "Hello Git!" << endl;
 }
+
+
+void printBranchName() {
+    cout << "This is from branch1!" << endl;
+
